@@ -1,5 +1,7 @@
 # 🌐 Google Clone App
 
+check live: https://bashii110.github.io/google_clone/
+
 A responsive Google Search Clone built with **Flutter** using **RESTful APIs**. This app replicates the core search functionality of Google, displaying search results, pagination, and adapting to both mobile and desktop layouts.
 
 ## 📱 Features
